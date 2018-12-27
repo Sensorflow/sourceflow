@@ -1,0 +1,9 @@
+applauncher
+#remote-event-bundle==0.2
+#netifaces
+apscheduler_bundle
+#redis_bundle
+
+
+# De sinkflow
+requests

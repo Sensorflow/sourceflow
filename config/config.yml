@@ -1,0 +1,11 @@
+#remote_event:
+#  events:
+#    - name: network_up
+#    - name: network_down
+
+
+sourceflow:
+  api_key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI1YzI0MDZhMzBkNzUzYTU2OTRhN2U4N2MifQ.OhNAhfuL5DQBpsX_4l2MoD4kqFWisxCNarkuIh9P9us
+  sleep_hour: 17
+  wake_hour: 16
+  read_interval: 10
